@@ -1,0 +1,20 @@
+[
+	{
+		model: 'iPhone 7S',
+		year: 2016,
+		price: '120$',
+		producer: 'Samsung'
+	},
+	{
+		model: 'iPhone 7S',
+		year: 2016,
+		price: '120$',
+		producer: 'Samsung'
+	},
+	{
+		model: 'iPhone 7S',
+		year: 2016,
+		price: '120$',
+		producer: 'Samsung'
+	}
+]
